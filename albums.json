@@ -1,0 +1,21 @@
+
+[
+    {
+        "album": "Thriller",
+        "artist": "Michael Jackson",
+        "tracks": ["Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean", "Human Nature"],
+        "year": 1982
+    },
+    {
+        "album": "21",
+        "artist": "Adele",
+        "tracks": ["Rolling in the Deep", "Rumour Has It", "Turning Tables", "Don't You Remember", "Set Fire to the Rain"],
+        "year": 2011
+    },
+    {
+        "album": "Rockstar",
+        "artist": "A.R. Rahman",
+        "tracks": ["Sadda Haq", "Tum Ho", "Kun Faya Kun", "Nadaan Parindey", "Jo Bhi Main"],
+        "year": 2011
+    }
+]
